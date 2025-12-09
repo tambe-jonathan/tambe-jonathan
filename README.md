@@ -1,36 +1,143 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is agbor jonathan
-=======================================================================================================================================
-
-Senior Azure Cloud & DevOps Engineer | AWS & Multi Cloud Specialist
--------------------------------------------------------------------
-
-Cloud & DevOps Engineer with nearly five years of experience building automated, secure, and scalable cloud environments across Azure and AWS. I specialize in CI/CD pipelines, Kubernetes, Infrastructure as Code, and cloud security. I focus on creating simple, reliable automation that helps teams ship faster with confidence. Open to remote roles and freelance DevOps projects.
-
-* 🌍  I'm based in Qatar
-* 🖥️  See my portfolio at [Myportfolio](http://my portfolio.com)
-* ✉️  You can contact me at [jonathanta2023@gmail.com](mailto:jonathanta2023@gmail.com)
-* 🚀  I'm currently working on [Building and automating enterprise-grade cloud infrastructure using Azure, AWS, Terraform, Kubernetes, and advanced CI/CD tooling.](http://https://yourportfolio.com)
-* 🧠  I'm currently learning Improving my mastery of cloud-native operations with: Advanced Kubernetes (GitOps, Helm, Operators) Cloud Security & Zero-Trust Platform Engineering & Internal Developer Platforms (IDPs)
-* 👥  I'm looking to collaborate on DevOps automation projects Cloud infrastructure builds CI/CD pipelines Kubernetes deployments Infrastructure as Code (Terraform, Bicep) High-scalability / high-availability cloud solutions
-* 💬  Ask me about I’m passionate about designing simple, secure, and scalable cloud systems—and helping teams ship faster with confidence.
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<!-- ====== TOP ANIMATED BANNER ====== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3EB489&center=true&vCenter=true&width=900&lines=Senior+Cloud+%26+DevOps+Engineer;Azure+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Building+Production+Grade+CI%2FCD+%7C+GitOps+%7C+DevSecOps;Automating+Everything+End-to-End" />
 </p>
 
-### Socials
+<br>
 
-<p align="left"> <a href="https://www.github.com/tambe-jonathan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in//in/agbor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+<!-- ====== SOCIAL BADGES ====== -->
+<p align="center">
+  <a href="https://github.com/tambe-jonathan"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=tambe-jonathan&style=for-the-badge&color=brightgreen" />
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/tambe-jonathan"><img src="https://github-readme-stats.vercel.app/api?username=tambe-jonathan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=713f12&hide_border=true&show_icons=true" alt="tambe-jonathan's GitHub stats" /></a>
+# 👋 **Hi, I'm Jonathan Tambe — Senior Cloud & DevOps Engineer**
 
-<a href="http://www.github.com/tambe-jonathan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tambe-jonathan&stroke=ffffff&background=713f12&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+Cloud & DevOps Engineer specializing in **Azure, AWS, Kubernetes, Terraform, CI/CD automation, GitOps, and Cloud Security**.  
+I design scalable, secure, production-grade infrastructure and deliver real business value through automation and modern DevOps practices.
 
-<a href="https://github.com/tambe-jonathan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tambe-jonathan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+# 🛠️ **Tech Stack (Icon Wall)**
 
-<div width="100%" align="center"><a href="https://github.com/tambe-jonathan/https://github.com/tambe-jonathan/tambe-jonathan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tambe-jonathan&repo=https://github.com/tambe-jonathan/tambe-jonathan&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=713f12&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### ☁️ Cloud
+<p><img src="https://skillicons.dev/icons?i=azure,aws" /></p>
+
+### 🔄 DevOps / CI-CD
+<p><img src="https://skillicons.dev/icons?i=githubactions,jenkins,azuredevops" /></p>
+
+### 🧱 Containers & Orchestration
+<p><img src="https://skillicons.dev/icons?i=docker,kubernetes" /></p>
+
+### 🧩 IaC
+<p><img src="https://skillicons.dev/icons?i=terraform" /></p>
+
+### 🔐 Security / DevSecOps
+<p><img src="https://skillicons.dev/icons?i=azure,aws" /></p>
+
+### 📜 Scripting
+<p><img src="https://skillicons.dev/icons?i=bash,python,powershell" /></p>
+
+### 📈 Monitoring
+<p><img src="https://skillicons.dev/icons?i=grafana,prometheus" /></p>
+
+### 🗄️ Databases
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /></p>
+
+---
+
+# 🚀 **DevOps Architecture Diagram**
+(ASCII architecture banner — replace later with your own PNG if you want)
+
+---
+
+# 📘 **2025 DevOps Learning Roadmap**
+
+### 🔹 **Kubernetes**
+- Service Mesh (Istio)  
+- Multi-cluster GitOps  
+- Gatekeeper/Kyverno security policies  
+- Cluster autoscaling + cost optimization  
+
+### 🔹 **DevSecOps**
+- Supply chain security  
+- Advanced Vulnerability Scanning  
+- Zero Trust  
+- Secrets governance  
+
+### 🔹 **Cloud Architecture**
+- Multi-region failover  
+- Event-driven/serverless  
+- DR patterns  
+
+### 🔹 **SRE & Automation**
+- SLIs/SLOs  
+- Chaos engineering  
+- Automated quality gates  
+
+---
+
+# 📌 **Featured Projects (Pinned)**
+
+### 🔹 **1. Kubernetes GitOps Platform (AKS/EKS + ArgoCD)**
+> GitOps CI/CD + Helm + environment promotions  
+🔗 https://github.com/your-username/gitops-k8s-platform
+
+---
+
+### 🔹 **2. Azure Terraform + AKS Deployment**
+> Terraform + Azure DevOps + Kubernetes end-to-end  
+🔗 https://github.com/your-username/azure-aks-devops
+
+---
+
+### 🔹 **3. AWS Microservices Platform (EKS + CloudFormation)**
+> Production-ready microservices stack  
+🔗 https://github.com/your-username/aws-eks-platform
+
+---
+
+### 🔹 **4. Full DevSecOps Pipeline**
+> Trivy • SonarQube • Nexus • Quality Gates  
+🔗 https://github.com/your-username/devsecops-pipeline
+
+---
+
+### 🔹 **5. Observability Stack (Prometheus + Grafana + Loki)**
+> Enterprise-grade monitoring  
+🔗 https://github.com/your-username/k8s-monitoring-stack
+
+---
+
+# 🏆 **GitHub Stats & Achievements**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tambe-jonathan&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tambe-jonathan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tambe-jonathan&theme=algolia&margin-w=10" />
+</p>
+
+---
+
+# 🤝 **Let’s Connect**
+📩 **Email:** jonathanta2023@gmail.com  
+🌍 **Location:** Doha, Qatar — *Open to Remote Roles*  
+
+---
+
+### ⭐ If you'd like, I can:
+✔ Add a **dark mode / neon DevOps theme**  
+✔ Create **custom DevOps banners**  
+✔ Add **emoji sections, certifications, workflows, or automation diagrams**  
+
+Just say **“Add more styling”** or **“Add certification section”**.
+
+        
