@@ -20,7 +20,7 @@ I design scalable, secure, production-grade infrastructure and deliver real busi
 
 ---
 
-# 🛠️ **Tech Stack (Icon Wall)**
+# 🛠️ **Tech Stack**
 
 ### ☁️ Cloud
 <p><img src="https://skillicons.dev/icons?i=azure,aws" /></p>
