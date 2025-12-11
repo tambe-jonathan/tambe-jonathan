@@ -53,32 +53,6 @@ I design scalable, secure, production-grade infrastructure and deliver real busi
 
 ---
 
-# 📘 **2025 DevOps Learning Roadmap**
-
-### 🔹 **Kubernetes**
-- Service Mesh (Istio)  
-- Multi-cluster GitOps  
-- Gatekeeper/Kyverno security policies  
-- Cluster autoscaling + cost optimization  
-
-### 🔹 **DevSecOps**
-- Supply chain security  
-- Advanced Vulnerability Scanning  
-- Zero Trust  
-- Secrets governance  
-
-### 🔹 **Cloud Architecture**
-- Multi-region failover  
-- Event-driven/serverless  
-- DR patterns  
-
-### 🔹 **SRE & Automation**
-- SLIs/SLOs  
-- Chaos engineering  
-- Automated quality gates  
-
----
-
 # 📌 **Featured Projects (Pinned)**
 
 ### 🔹 **1. Kubernetes GitOps Platform (AKS/EKS + ArgoCD)**
@@ -127,17 +101,44 @@ I design scalable, secure, production-grade infrastructure and deliver real busi
 
 ---
 
+## 🎓 Certifications
+
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://img.shields.io/badge/Azure%20Administrator-AZ104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <br>
+      <a href="certifications/AZ104.pdf">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_pdf_file.png" height="50"/>
+      </a>
+    </td>
+    <td width="160">
+      <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+      <br>
+      <a href="certifications/AWS-SAA.pdf">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_pdf_file.png" height="50"/>
+      </a>
+    </td>
+    <td width="160">
+      <img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+      <br>
+      <a href="certifications/CKA.pdf">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_pdf_file.png" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> 📌 Place your certification PDFs inside:  
+> **`/certifications` folder** in your GitHub repo
+
+---
+
 # 🤝 **Let’s Connect**
 📩 **Email:** jonathanta2023@gmail.com  
 🌍 **Location:** Doha, Qatar — *Open to Remote Roles*  
 
 ---
 
-### ⭐ If you'd like, I can:
-✔ Add a **dark mode / neon DevOps theme**  
-✔ Create **custom DevOps banners**  
-✔ Add **emoji sections, certifications, workflows, or automation diagrams**  
-
-Just say **“Add more styling”** or **“Add certification section”**.
 
         
